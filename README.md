@@ -1,7 +1,10 @@
 # PersianDatePicker
-A shamsi Date picker for local using , the main sources is in readme file.
+A version of a shamsi Date picker for local using , the main sources is in readme file.
 
 
+ use the better version - its work without internet connection! just with that files i puted
+
+ in the future i will add some better version for using some DP in a single index.html page and also with a lots of more customizeable feautures.
 
 The main code is :
 <html>
